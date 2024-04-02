@@ -1,17 +1,11 @@
-# expense_tracker
+# Expense Tracker Mobile Application
 
-A new Flutter project.
+**Hosted Link:** https://my-web-a0149.web.app/
 
-## Getting Started
+## Introduction 📱💰
 
-This project is a starting point for a Flutter application.
+The Expense Tracker Mobile Application is a Flutter-based tool for managing expenses and income. It offers CRUD functionalities using shared preferences for data storage, providing users with an intuitive interface to track their finances effectively.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# expense-tracker
+Users can add, view, edit, and delete expense/income entries conveniently from the main dashboard.
